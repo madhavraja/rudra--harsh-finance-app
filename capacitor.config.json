@@ -1,0 +1,8 @@
+{
+  "appId": "com.rudraharshfinance.app",
+  "appName": "Rudra Harsh Finance",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
